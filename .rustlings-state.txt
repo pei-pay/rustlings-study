@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-cow1
+rc1
 
 intro1
 intro2
